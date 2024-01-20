@@ -1,0 +1,21 @@
+
+
+.app{
+  padding: 20px;
+
+}
+
+.products{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
+
+.product{
+  width: 400px;
+  border: 1px solid grey;
+  margin: 5px;
+}
+
+
